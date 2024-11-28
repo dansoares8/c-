@@ -68,6 +68,17 @@ Console.WriteLine(firstName);
 //Exercício prático:
 //Console.WriteLine("Hello, " + nome + "! You have " + numero + " messages in your inbox. The temperature is " + temperatura + " celsius.");
 
+//
+//Console.WriteLine("Hello\nWorld!");
+//Console.WriteLine("Hello\tWorld!");
+
+//deu errado:
+//Console.WriteLine("Hello" \ "World" \ "!");
+
+//É assim que usa a barra para mostrar só uma barra sem gerar problemas com o C#:
+//Console.WriteLine("c:\\source\\repos");
+
+
 
 
 
